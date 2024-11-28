@@ -1,3 +1,2 @@
-
-    <title>Musify App - README</title>
+<h1>Musify App - README</h1>
    
